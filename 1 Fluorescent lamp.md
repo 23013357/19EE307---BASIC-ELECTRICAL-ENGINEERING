@@ -1,5 +1,5 @@
 ## Exp. No. 1
-**Date:**  
+**Date:**  08.08.2025
 
 ## FFLUORESCENT LAMP
 <img width="1544" height="944" alt="image" src="https://github.com/user-attachments/assets/f2c4ece6-23d7-4090-9712-417a76cdc0f7" />
@@ -15,8 +15,8 @@ https://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp5/index.htm
 
 ## Tabulation / Graph 
 
-
-## Sample images 
+![WhatsApp Image 2025-11-21 at 15 16 49](https://github.com/user-attachments/assets/d9f4831e-4632-4e40-8c5e-18eca3d43be2)
 
 
 ## Result
+![WhatsApp Image 2025-11-21 at 15 15 44](https://github.com/user-attachments/assets/9d271a9a-c03b-4238-b069-668a50352174)
