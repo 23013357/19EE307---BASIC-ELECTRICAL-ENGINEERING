@@ -109,13 +109,21 @@ Low cost
 Effect of ambient conditions
 
 # Circuit Diagram in software
+<img width="1435" height="797" alt="514555397-0f702cf1-d2fc-428c-9c25-7072347b252f" src="https://github.com/user-attachments/assets/070b9d9a-0b0a-4a4a-a83e-e4822ed88d72" />
 
+<img width="1457" height="795" alt="514556617-bf1bb4c2-c8f4-42ad-b39d-768380de108b" src="https://github.com/user-attachments/assets/21872e68-f374-4e6f-8a1e-364f06637d3b" />
+<img width="1483" height="803" alt="514556946-b557c10f-a62e-4b9a-8463-afab48f6f39f" src="https://github.com/user-attachments/assets/c0d40420-f269-4c3c-8bc5-ff8396c91e75" />
 
 
 # Output Graph / Tabulation
+![WhatsApp Image 2025-11-21 at 17 46 10](https://github.com/user-attachments/assets/e33e5665-8dd5-40fe-806e-9f280157f7a3)
 
+<img width="1080" height="508" alt="image" src="https://github.com/user-attachments/assets/81343e0c-84ba-4b7e-bc30-cafd702ee108" />
+<img width="1080" height="570" alt="image" src="https://github.com/user-attachments/assets/58574620-d9e8-48df-ab35-f64d52296193" />
 
-# Sample images
 
 
 # Result
+
+<img width="1280" height="465" alt="image" src="https://github.com/user-attachments/assets/33098567-9a03-4cdb-bcd5-77cc50cb29b7" />
+
